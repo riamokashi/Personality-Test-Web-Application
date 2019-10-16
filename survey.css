@@ -1,0 +1,27 @@
+h1{
+  font-family: 'Montserrat',sans-serif;
+  background-color: #b6e5fe;
+  text-align: center;
+  text-shadow: white;
+  font-size: 70px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 10;
+}
+body{
+  background-color: black;
+}
+#name{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #FEB6E6;
+  text-align: center;
+}
+#number{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #FEB6E6;
+    text-align: center;
+}
+#genre{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #FEB6E6;
+}
